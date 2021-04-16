@@ -1,0 +1,2 @@
+# CustomTaskManager
+Here you can find two custom task managers. The first is a java version, and has little features due to lack of Windows APIs, and the second is a C# version, that is currently work in progress.
